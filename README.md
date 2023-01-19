@@ -3,8 +3,8 @@
 ## Description
 
 I built this page as my second project of how to build a website using html and css.This is my E-Portfolio.
-Link to the application: https://donefu.github.io/Refactor-Website/
-![webpage](./assets/01-html-css-git-homework-demo.png)
+Link to the application: https://github.com/donefu/E-Portfolio
+![webpage] https://github.com/donefu/E-Portfolio)
 ![image](./src/img/Screenshot%202023-01-19%20at%2011.27.21%20AM.png)
 
 ## Installation
